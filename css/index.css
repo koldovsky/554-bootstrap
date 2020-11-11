@@ -1,0 +1,8 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+.navbar-light .navbar-brand {
+    text-transform: uppercase;    
+}
+
